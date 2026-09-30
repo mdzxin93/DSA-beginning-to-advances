@@ -1,0 +1,21 @@
+"""
+Problem 29: Finding the Largest Palindrome in a String
+Difficulty: Easy
+Topics: Basic Programming, String Manipulation
+
+Description:
+Write a program to find the largest palindrome in a given string.
+
+Example:
+- Input: `string = "babad"`
+- Output: `"bab"` or `"aba"`
+- Explanation: Both "bab" and "aba" are valid palindromes in the string.
+"""
+
+def solve():
+    # TODO: Implement your solution here
+    pass
+
+
+if __name__ == "__main__":
+    solve()

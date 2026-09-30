@@ -1,4 +1,12 @@
 # DSA-beginning-to-advances
+
+## 🧩 Logic Building (Code Before DSA)
+A curated collection of 150 foundational logic building and problem-solving exercises.
+
+👉 **[View All 150 Logic Building Problems](./Logic-Building/README.md)**
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
